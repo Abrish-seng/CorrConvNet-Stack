@@ -1,0 +1,8 @@
+--ds 11tumors --rep 0
+--ds 11tumors --rep 1
+--ds 11tumors --rep 2
+--ds leukemia --rep 0
+--ds leukemia --rep 1
+--ds leukemia --rep 2
+--ds 11tumors --rep 0 --perm
+--ds leukemia --rep 0 --perm
